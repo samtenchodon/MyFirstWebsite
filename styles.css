@@ -47,11 +47,11 @@ li {
 }
 
 .pink-mode {
-    background-color: #ffa4c1;
-    color: rgb(255, 156, 187);
+    background-color: #ffffff;
+    color: rgb(255, 255, 255);
 }
 
 .pink-mode .container {
     background: #ffb5c5;
-    box-shadow: 0 0 10px rgba(254, 162, 209, 0.1);
+    box-shadow: 0 0 10px rgba(255, 166, 212, 0.1);
 }
