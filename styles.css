@@ -4,7 +4,7 @@ body {
     padding: 20px;
     transition: background 0.3s, color 0.3s;
     background: #f8f9fa;
-    color: #333;
+    color: #000000;
 }
 
 .container {
@@ -46,12 +46,12 @@ li {
     margin: 10px 0;
 }
 
-.dark-mode {
-    background-color: #ffc0ce;
-    color: rgb(255, 192, 212);
+.pink-mode {
+    background-color: #ffa4c1;
+    color: rgb(255, 156, 187);
 }
 
-.dark-mode .container {
-    background: #ffc0ce;
+.pink-mode .container {
+    background: #ffa9bc;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
