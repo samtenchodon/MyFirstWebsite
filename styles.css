@@ -29,7 +29,7 @@ button {
     cursor: pointer;
     border: none;
     background: #da889a;
-    color: white;
+    color: rgb(255, 194, 226);
     border-radius: 5px;
 }
 
@@ -48,7 +48,7 @@ li {
 
 .pink-mode {
     background-color: #ffbcd3;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 202, 224);
 }
 
 .pink-mode .container {
