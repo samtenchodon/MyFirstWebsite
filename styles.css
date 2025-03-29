@@ -48,7 +48,7 @@ li {
 
 .dark-mode {
     background-color: #ffc0ce;
-    color: white;
+    color: rgb(255, 192, 212);
 }
 
 .dark-mode .container {
