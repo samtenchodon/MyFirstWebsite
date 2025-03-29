@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-    background: #da889a;
+    background: #ffffff;
 }
 
 ul {
@@ -52,6 +52,6 @@ li {
 }
 
 .pink-mode .container {
-    background: #ffb5c5;
+    background: #ffc4d1;
     box-shadow: 0 0 10px rgba(255, 166, 212, 0.1);
 }
