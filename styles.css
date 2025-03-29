@@ -3,8 +3,8 @@ body {
     text-align: center;
     padding: 20px;
     transition: background 0.3s, color 0.3s;
-    background: #f8f9fa;
-    color: #000000;
+    background: #ffffff;
+    color: #e9a2a2;
 }
 
 .container {
@@ -47,11 +47,11 @@ li {
 }
 
 .pink-mode {
-    background-color: #ffffff;
+    background-color: #ffbcd3;
     color: rgb(255, 255, 255);
 }
 
 .pink-mode .container {
-    background: #ffc4d1;
+    background: #ffc6d2;
     box-shadow: 0 0 10px rgba(255, 166, 212, 0.1);
 }
