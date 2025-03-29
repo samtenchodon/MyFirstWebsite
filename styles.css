@@ -28,13 +28,13 @@ button {
     padding: 10px;
     cursor: pointer;
     border: none;
-    background: #007bff;
+    background: #da889a;
     color: white;
     border-radius: 5px;
 }
 
 button:hover {
-    background: #0056b3;
+    background: #da889a;
 }
 
 ul {
@@ -47,11 +47,11 @@ li {
 }
 
 .dark-mode {
-    background-color: #333;
+    background-color: #ffc0ce;
     color: white;
 }
 
 .dark-mode .container {
-    background: #444;
+    background: #ffc0ce;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
